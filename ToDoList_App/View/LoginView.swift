@@ -14,7 +14,10 @@ struct LoginView: View {
         NavigationView {
             VStack {
                 //Header
-                HeaderView()
+                HeaderView(title: "To Do List",
+                           subtitle: "Grt things done",
+                           angle: 15,
+                           background: .mint)
                 
                 //Login Form
                 Form {
@@ -36,7 +39,7 @@ struct LoginView: View {
                                 .bold()
                         }
                     }
-                    .padding()
+                    .padding(.bottom, 50)
                     
                 }
                 
