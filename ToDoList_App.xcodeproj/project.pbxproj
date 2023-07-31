@@ -129,8 +129,8 @@
 				15319FE62A7055E5006D769F /* RegisterView.swift */,
 				15319FEA2A705641006D769F /* ProfileView.swift */,
 				15319FEC2A705664006D769F /* ToDoListView.swift */,
-				15319FE42A7055C4006D769F /* ToDoListItemView.swift */,
 				15319FE82A705618006D769F /* NewItemView.swift */,
+				15319FE42A7055C4006D769F /* ToDoListItemView.swift */,
 				1531A0002A7060CB006D769F /* HeaderView.swift */,
 				1522A4782A71B0C900451F9C /* TLButton.swift */,
 			);
